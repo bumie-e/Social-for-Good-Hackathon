@@ -1,6 +1,6 @@
 # Code of Conduct
 
-The following principles are important values that you agree to abide by as a member of Women in Data Science OAU. If you break the code of conduct, you will be removed from the community.
+The following principles are important values that you agree to abide by as a participant of the Social for Good Hackathon. If you break the code of conduct, you will be removed from the hackathon.
 
 ## Our Pledge
 
